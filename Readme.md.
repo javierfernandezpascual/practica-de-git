@@ -1,0 +1,11 @@
+git clone
+git push 
+git add
+mkdir
+rmdir
+touch
+mv
+ls
+cd
+ls-l
+
